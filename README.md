@@ -10,6 +10,11 @@ A RESTful API built with ASP.NET Core that retrieves the top N stories from the 
    cd HackerNewsTopStories
    ```
 
+3. We move again to the folder with the files:
+   ```bash
+   cd HackerNewsTopStories
+   ```
+   
 2. Restore packages and run the project:
    ```bash
    dotnet restore
