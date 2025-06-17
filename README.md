@@ -7,7 +7,7 @@ A RESTful API built with ASP.NET Core that retrieves the top N stories from the 
 1. Clone the repository:
    ```bash
    git clone https://github.com/AzaelBarbosa/HackerNewsTopStories.git
-   cd hackernews-api
+   cd HackerNewsTopStories
    ```
 
 2. Restore packages and run the project:
