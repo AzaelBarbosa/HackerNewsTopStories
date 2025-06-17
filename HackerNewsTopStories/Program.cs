@@ -1,4 +1,3 @@
-using HackerNewsTopStories;
 using HackerNewsTopStories.Services;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,9 +1,8 @@
 ﻿using HackerNewsTopStories.Dtos;
-using HackerNewsTopStories.Services;
 using Microsoft.Extensions.Caching.Memory;
 using System.Text.Json;
 
-namespace HackerNewsTopStories
+namespace HackerNewsTopStories.Services
 {
     public class HackerNewsService : IHackerNewsService
     {
